@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MoJo",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MoJo",
+  "displayName": "MoJo"
+}
