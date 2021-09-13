@@ -1,0 +1,31 @@
+{
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"javascript.preferences.importModuleSpecifier": "non-relative",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"typescript.preferences.importModuleSpecifier": "non-relative",
+	"files.exclude": {
+		"**/**.zip": true,
+		"**/.babelrc": true,
+		"**/.elasticbeanstalk": true,
+		"**/.eslintrc.js": true,
+		"**/.gitignore": true,
+		"**/.gitmodules": true,
+		"**/.prettierrc": true,
+		"**/babel.config.js": true,
+		"**/build": true,
+		"**/dist": true,
+		"**/node_modules/**": true,
+		"**/package-lock.json": true,
+		"**/Procfile": true,
+		"**/serve.json": true,
+		"workspaceConfiguration": true
+	},
+	"files.autoSave": "onWindowChange",
+	"eslint.alwaysShowStatus": true,
+	"eslint.format.enable": true,
+	"eslint.lintTask.enable": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnType": true
+}
